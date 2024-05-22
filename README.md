@@ -12,6 +12,8 @@ Here you may find Rutronik Development Kit 3 (RDK3)-related documents as follows
 
 - The default keys [are needed only if your demo came to you already provisioned by Rutronik]
 
+- The Secure Policy Configurator for provisioning if ModusToolbox 3.2 is used in Windows OS.
+
   
 
 For technical documents such as schematics, PCB layout, etc., please go to this GitHub directory:
