@@ -6,6 +6,8 @@ Here you may find Rutronik Development Kit 3 (RDK3)-related documents as follows
 
 - Getting Started Guideline
 
+- Application Note
+
 - BOM: Bill of Materials
 
 - High-resolution photos
